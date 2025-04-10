@@ -16,6 +16,8 @@ UOverwrite 패키지를 설치하려면 다음 단계가 필요합니다.
 ## 사용법
 
 동일한 이름을 가진 파일이 존재할 경우, 덮어쓰기를 할 것인지 물어보는 팝업이 나타납니다. 사용자가 덮어쓰기를 선택하면 파일이 덮어써집니다.
+<img width="296" alt="image" src="https://github.com/user-attachments/assets/1587a59c-5dee-46e7-b884-b97f52c455da" />
+
 
 ## 지원 확장자
 
