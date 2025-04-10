@@ -2,17 +2,6 @@
 
 이 에셋은 Unity에서 파일을 덮어쓰는 기능을 제공합니다.
 
-## 설치 방법
-### Git UPM
-UOverwrite 패키지를 설치하려면 다음 단계가 필요합니다.
-1. Git이 설치되어 있는지 확인하십시오.
-2. Package Manager를 오픈합니다.
-3. +버튼을 클릭하고, Add package from git URL을 클릭합니다.
-4. `https://github.com/NK-Studio/UOverwrite.git?path=UOverwrite/Assets/Plugins/UOverwrite` 를 입력하고 추가 버튼을 클릭하세요.
-   
-### Unity Package
-[Releases](https://github.com/NK-Studio/UOverwrite/releases)에서 최신 버전의 패키지를 다운로드 받아 설치합니다.
-
 ## 사용법
 
 동일한 이름을 가진 파일이 존재할 경우, 덮어쓰기를 할 것인지 물어보는 팝업이 나타납니다. 사용자가 덮어쓰기를 선택하면 파일이 덮어써집니다.
